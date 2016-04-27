@@ -1,0 +1,24 @@
+article, aside, dialog, figure, footer, header, legend, nav, section {
+	display: block;
+}
+
+nav {
+	float: left;
+	width: 20%;
+}
+
+header {
+	display: block;
+	color: red;
+	text-align: right;
+}
+
+article {
+	float: right;
+	width: 79%;
+}
+
+article header {
+	color: blue;
+	text-align: center;
+}
